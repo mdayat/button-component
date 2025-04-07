@@ -25,7 +25,7 @@ pnpm install && pnpm run
 
 ### Why Tailwind CSS?
 
-Its utility-first approach allows us to create custom UI designs easily and quickly. Moreover, it bundles only using CSS utilities.
+Its utility-first approach allows us to create custom UI designs easily and quickly. Moreover, it removes unused CSS utilities.
 
 ### Why shadcn/ui?
 
